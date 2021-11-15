@@ -14,6 +14,10 @@
 3. Прочее.
 +   [Подборка самых полезных горячих клавиш для различных IDE и редакторов кода](https://tproger.ru/digest/ide-hotkeys/ "Необязательная подсказка")
 +   [Типы данных](https://pyprog.pro/data_types.html "Необязательная подсказка")
++   [opencv: пороговые операции с использованием inRange](https://russianblogs.com/article/2068252261/ "Необязательная подсказка")
++   [Типы данных](https://pyprog.pro/data_types.html "Необязательная подсказка")
++   [Типы данных](https://pyprog.pro/data_types.html "Необязательная подсказка")
++   [Типы данных](https://pyprog.pro/data_types.html "Необязательная подсказка")
 + 
 
 
