@@ -11,7 +11,9 @@
 +   [Шпаргалка по OpenCV — Python](https://tproger.ru/translations/opencv-python-guide/#antialiasing "Необязательная подсказка")
 +   [Хорошее введение в OpenCV](https://russianblogs.com/article/2777646555/ "Необязательная подсказка")
 + 
-
+3. Прочее.
++   [Подборка самых полезных горячих клавиш для различных IDE и редакторов кода](https://tproger.ru/digest/ide-hotkeys/ "Необязательная подсказка")
++ 
 
 
 
