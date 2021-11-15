@@ -15,7 +15,7 @@
 +   [Подборка самых полезных горячих клавиш для различных IDE и редакторов кода](https://tproger.ru/digest/ide-hotkeys/ "Необязательная подсказка")
 +   [Типы данных](https://pyprog.pro/data_types.html "Необязательная подсказка")
 +   [opencv: пороговые операции с использованием inRange](https://russianblogs.com/article/2068252261/ "Необязательная подсказка")
-+   [Типы данных](https://pyprog.pro/data_types.html "Необязательная подсказка")
++   [Python Cv2 Erode: Как размывать изображения с помощью OpenCV ](https://dev-gang.ru/article/python-cv-erode-kak-razmyvat-izobrazhenija-s-pomosczu-opencv-pf2ktmgvf5/ "Необязательная подсказка")
 +   [Типы данных](https://pyprog.pro/data_types.html "Необязательная подсказка")
 +   [Типы данных](https://pyprog.pro/data_types.html "Необязательная подсказка")
 + 
