@@ -19,8 +19,13 @@
 +   [OpenCV на python: выделение контуров](https://robotclass.ru/tutorials/opencv-python-find-contours/ "Необязательная подсказка")
 +   [Модуль deque](https://codecamp.ru/blog/python-deque-module/ "Необязательная подсказка")
 # 4. Книжки.
-+ ![С++](https://user-images.githubusercontent.com/74174732/141860352-803139c4-70ae-4e85-a97a-395b5bffd4d2.png "C++")
-+ ![image](https://user-images.githubusercontent.com/74174732/141860579-6e6deee4-d06c-44c1-a8ad-c3eb417cc7bd.png)
++ С++  
+![С++](https://user-images.githubusercontent.com/74174732/141860352-803139c4-70ae-4e85-a97a-395b5bffd4d2.png "C++")
++ Java  
+![image](https://user-images.githubusercontent.com/74174732/141860579-6e6deee4-d06c-44c1-a8ad-c3eb417cc7bd.png)
++ Python
+![image](https://user-images.githubusercontent.com/74174732/141860791-df18581f-dea2-4cb9-90b2-c181f976c21b.png)
+
 
 
 
