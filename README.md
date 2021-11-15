@@ -10,7 +10,7 @@
 +   [АВТОМАТИЧЕСКОЕ ОТСЛЕЖИВАНИЕ ОБЪЕКТА НА PYTHON](https://robotos.in/uroki/avtomaticheskoe-otslezhivanie-ob-ekta-na-python "Необязательная подсказка")
 +   [Шпаргалка по OpenCV — Python](https://tproger.ru/translations/opencv-python-guide/#antialiasing "Необязательная подсказка")
 +   [Хорошее введение в OpenCV](https://russianblogs.com/article/2777646555/ "Необязательная подсказка")
-+ 
+
 3. Прочее.
 +   [Подборка самых полезных горячих клавиш для различных IDE и редакторов кода](https://tproger.ru/digest/ide-hotkeys/ "Необязательная подсказка")
 +   [Типы данных](https://pyprog.pro/data_types.html "Необязательная подсказка")
@@ -18,7 +18,7 @@
 +   [Python Cv2 Erode: Как размывать изображения с помощью OpenCV ](https://dev-gang.ru/article/python-cv-erode-kak-razmyvat-izobrazhenija-s-pomosczu-opencv-pf2ktmgvf5/ "Необязательная подсказка")
 +   [OpenCV на python: выделение контуров](https://robotclass.ru/tutorials/opencv-python-find-contours/ "Необязательная подсказка")
 +   [Модуль deque](https://codecamp.ru/blog/python-deque-module/ "Необязательная подсказка")
-+ 
+
 
 
 
