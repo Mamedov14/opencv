@@ -17,7 +17,7 @@
 +   [opencv: пороговые операции с использованием inRange](https://russianblogs.com/article/2068252261/ "Необязательная подсказка")
 +   [Python Cv2 Erode: Как размывать изображения с помощью OpenCV ](https://dev-gang.ru/article/python-cv-erode-kak-razmyvat-izobrazhenija-s-pomosczu-opencv-pf2ktmgvf5/ "Необязательная подсказка")
 +   [OpenCV на python: выделение контуров](https://robotclass.ru/tutorials/opencv-python-find-contours/ "Необязательная подсказка")
-+   [Типы данных](https://pyprog.pro/data_types.html "Необязательная подсказка")
++   [Модуль deque](https://codecamp.ru/blog/python-deque-module/ "Необязательная подсказка")
 + 
 
 
