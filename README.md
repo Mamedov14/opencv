@@ -20,6 +20,7 @@
 +   [Модуль deque](https://codecamp.ru/blog/python-deque-module/ "Необязательная подсказка")
 4. Книжки.
 + ![С++](https://user-images.githubusercontent.com/74174732/141860352-803139c4-70ae-4e85-a97a-395b5bffd4d2.png "C++")
++ ![image](https://user-images.githubusercontent.com/74174732/141860579-6e6deee4-d06c-44c1-a8ad-c3eb417cc7bd.png)
 
 
 
