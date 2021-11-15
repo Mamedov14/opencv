@@ -8,6 +8,8 @@
 +   [Color Detection in Python with OpenCV](https://henrydangprg.com/2016/06/26/color-detection-in-python-with-opencv/ "Необязательная подсказка")
 2. Как рабоатет компьютерное зрение? 
 +   [АВТОМАТИЧЕСКОЕ ОТСЛЕЖИВАНИЕ ОБЪЕКТА НА PYTHON](https://robotos.in/uroki/avtomaticheskoe-otslezhivanie-ob-ekta-na-python "Необязательная подсказка")
++   [Шпаргалка по OpenCV — Python](https://tproger.ru/translations/opencv-python-guide/#antialiasing "Необязательная подсказка")
++   [Color Detection in Python with OpenCV](https://henrydangprg.com/2016/06/26/color-detection-in-python-with-opencv/ "Необязательная подсказка")
 + 
 
 
