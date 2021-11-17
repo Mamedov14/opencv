@@ -5,7 +5,9 @@
 +   [setLocationRelativeTo(null)](https://coderoad.ru/144892/%D0%9A%D0%B0%D0%BA-%D1%86%D0%B5%D0%BD%D1%82%D1%80%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D1%82%D1%8C-%D0%BE%D0%BA%D0%BD%D0%BE-%D0%B2-Java "Необязательная подсказка")
 +   [Класс AWT WindowAdapter](https://www.tutorialspoint.com/awt/awt_windowadapter.htm "Необязательная подсказка")
 +   [Графический интерфейс на Java Swing - GUI Tutorial](http://www.javenue.info/post/36 "Необязательная подсказка")
-+
++   [Семафоры](https://metanit.com/java/tutorial/8.6.php "Необязательная подсказка")
++   [Графический интерфейс на Java Swing - GUI Tutorial](http://www.javenue.info/post/36 "Необязательная подсказка")
+
 
 
  # __Для тех кто пишет на Java:__
