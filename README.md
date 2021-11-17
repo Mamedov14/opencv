@@ -1,6 +1,11 @@
 # opencv
 
-# Для понимания Java -> CapturingFramesFromWebcam
+# Для понимания Java -> CapturingFramesFromWebcam  
++   [setDefaultCloseOperation](https://coderoad.ru/32077449/%D0%92-%D1%87%D0%B5%D0%BC-%D1%81%D0%BC%D1%8B%D1%81%D0%BB-setDefaultCloseOperation-WindowConstants-EXIT_ON_CLOSE "Необязательная подсказка")
++   [JavaFX в IntelliJ IDEA](https://metanit.com/java/javafx/1.8.php "Необязательная подсказка")
++   [JavaFX в IntelliJ IDEA](https://metanit.com/java/javafx/1.8.php "Необязательная подсказка")
++   [JavaFX в IntelliJ IDEA](https://metanit.com/java/javafx/1.8.php "Необязательная подсказка")
++
 
 
  # __Для тех кто пишет на Java:__
