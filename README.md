@@ -6,7 +6,7 @@
 +   [Класс AWT WindowAdapter](https://www.tutorialspoint.com/awt/awt_windowadapter.htm "Необязательная подсказка")
 +   [Графический интерфейс на Java Swing - GUI Tutorial](http://www.javenue.info/post/36 "Необязательная подсказка")
 +   [Семафоры](https://metanit.com/java/tutorial/8.6.php "Необязательная подсказка")
-+   [Графический интерфейс на Java Swing - GUI Tutorial](http://www.javenue.info/post/36 "Необязательная подсказка")
++   [В чем суть блока finally в Java?](https://coderoad.ru/3147721/%D0%92-%D1%87%D0%B5%D0%BC-%D1%81%D1%83%D1%82%D1%8C-%D0%B1%D0%BB%D0%BE%D0%BA%D0%B0-finally-%D0%B2-Java "Необязательная подсказка")
 
 
 
