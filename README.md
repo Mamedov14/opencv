@@ -1,6 +1,6 @@
 # opencv
 
-# Java -> CapturingFramesFromWebcam
+# Для понимания Java -> CapturingFramesFromWebcam
 
 
  # __Для тех кто пишет на Java:__
