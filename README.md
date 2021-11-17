@@ -4,7 +4,7 @@
 +   [setDefaultCloseOperation](https://coderoad.ru/32077449/%D0%92-%D1%87%D0%B5%D0%BC-%D1%81%D0%BC%D1%8B%D1%81%D0%BB-setDefaultCloseOperation-WindowConstants-EXIT_ON_CLOSE "Необязательная подсказка")
 +   [setLocationRelativeTo(null)](https://coderoad.ru/144892/%D0%9A%D0%B0%D0%BA-%D1%86%D0%B5%D0%BD%D1%82%D1%80%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D1%82%D1%8C-%D0%BE%D0%BA%D0%BD%D0%BE-%D0%B2-Java "Необязательная подсказка")
 +   [Класс AWT WindowAdapter](https://www.tutorialspoint.com/awt/awt_windowadapter.htm "Необязательная подсказка")
-+   [JavaFX в IntelliJ IDEA](https://metanit.com/java/javafx/1.8.php "Необязательная подсказка")
++   [Графический интерфейс на Java Swing - GUI Tutorial](http://www.javenue.info/post/36 "Необязательная подсказка")
 +
 
 
