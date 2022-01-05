@@ -1,8 +1,7 @@
-import org.bytedeco.javacv.FrameGrabber;
-import org.bytedeco.javacv.FrameRecorder;
+import java.io.IOException;
 
 public class Main {
-    public static void main(String[] args) throws FrameGrabber.Exception, FrameRecorder.Exception {
+    public static void main(String[] args) throws IOException {
         new Vision();
     }
 }
