@@ -4,7 +4,6 @@ import org.bytedeco.javacv.*;
 import java.io.IOException;
 
 import static org.bytedeco.javacpp.opencv_core.*;
-import static org.bytedeco.javacpp.opencv_imgcodecs.cvSaveImage;
 import static org.bytedeco.javacpp.opencv_imgproc.*;
 import static org.bytedeco.javacpp.opencv_objdetect.*;
 
@@ -23,13 +22,13 @@ public class Vision {
         classifierFace = new CvHaarClassifierCascade(cvLoad(XML_FILE));
 
         // захват камеры
-        // OpenCVFrameGrabber grabber = new OpenCVFrameGrabber(1);
+        OpenCVFrameGrabber grabber = new OpenCVFrameGrabber(1);
 
         // подключение к камере через rtsp
         // FFmpegFrameGrabber grabber = new FFmpegFrameGrabber("rtsp://");
 
         // подключить видосик
-        FFmpegFrameGrabber grabber = new FFmpegFrameGrabber("C:\\Java Book\\opencv_java\\temp.mp4");
+        // FFmpegFrameGrabber grabber = new FFmpegFrameGrabber("C:\\Java Book\\opencv_java\\temp.mp4");
 
         grabber.setAudioStream(0);
         grabber.start();
@@ -100,8 +99,8 @@ public class Vision {
                 int h = rect.height();
 //                IplImage face = getSubImageFromIpl(currentFrame, x, y, w, h);
 //                face = resizeIplImage(face, face_w, face_h);
-//                 cvSaveImage("C:\\Users\\vagif\\OneDrive\\Документы\\GitHub\\opencv\\JavaCV\\src\\main\\resources\\face\\" + count + "-new.jpg", face);
-//                 count++;
+//                cvSaveImage("C:\\Users\\vagif\\OneDrive\\Документы\\GitHub\\opencv\\JavaCV\\src\\main\\resources\\face\\" + count + "-new.jpg", face);
+//                count++;
                 rectangle(cvarrToMat(currentFrame), new Rect(x, y, w, h), new Scalar(0, 255, 0, 0), 2, 0, 0);
             }
         }
